@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Ankit Joshi! 👋
 
-<!--
-**Ankitjoshi8860/Ankitjoshi8860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics Aspirant & Final-Year CS Student**
 
-Here are some ideas to get you started:
+I am passionate about translating complex datasets into actionable business insights. Currently, I'm building scalable data models and financial dashboards to drive data-informed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Programming & Databases:** SQL, Python (Pandas, NumPy, Matplotlib)
+* **Visualization & BI:** Power BI (DAX, Power Query), Tableau, Advanced Excel
+* **Core Competencies:** Data Cleaning, ETL Processes, Data Modelling, Statistical Analysis
+
+### 🚀 Featured Projects
+* **Financial Risk & Lending Intelligence Dashboard:** Designed a risk assessment model analyzing a loan portfolio, validating $435M+ in funded assets to distinguish high-risk defaults using SQL, Power BI, and Python.
+* **Hospitality Revenue Analysis (AtliQ Grands):** Developed a strategic revenue dashboard tracking RevPAR, ADR, and Occupancy, utilizing a Star Schema data model and custom DAX measures.
+
+### 📫 Let's Connect
+* **Email:** ankitjoshi8860@gmail.com
+* **LinkedIn:** [Ankit Joshi](https://www.linkedin.com/in/ankitjoshi8860)
